@@ -6,24 +6,66 @@ body {
     background-attachment: fixed;
     background-size: 100% 100%;
 
-  
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
 
 }
 
 
 
 
+    .space {
+
+        margin: 20%;
+    }
+
+
+    .textdisplay {
+
+        margin-right: 2em;
+    }
+
+    table, th, td {
+        border: 1px solid black;
+        margin-top: 1em;
+
+    }
+
+    .profile {
+
+        margin: 10%;
+    }
+
+
+    .clearfix {
+        margin: 4em;
+    }
+
+    .lastContainersSize {
+
+        width: 10px;
+    }
 
 
 
 
-@media screen and (min-width: 800px) {
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1000px) {
 
             
     .EachContainer {
 
         display: flex;
         width: auto;
+       
         
     }
 
