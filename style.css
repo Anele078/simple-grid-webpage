@@ -6,7 +6,7 @@ body {
     background-attachment: fixed;
     background-size: 100% 100%;
 
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: large;
 
 }
@@ -46,6 +46,16 @@ body {
         width: 10px;
     }
 
+    .history {
+
+        margin-left: 1em;
+    }
+
+    .size {
+
+        width: 70%;
+    }
+    
 
 
 
